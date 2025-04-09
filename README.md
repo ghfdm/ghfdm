@@ -1,6 +1,6 @@
 ## Servus! 
 
-- 👻 Me chamo Gustavo, e sou estudante de Engenharia de Software.
+- 👻 Estudante de Engenharia de Software.
 - 👻 Estudando Python e Full Stack Web
 <div>
   <a href="https://github.com/ghfdm">
