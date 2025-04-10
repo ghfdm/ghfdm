@@ -20,3 +20,9 @@
   <a href="https://www.linkedin.com/in/gustavofidriszwski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+<div align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25tMHI0cWxtaHdnb2lycWZzYzAyeWZzaGl4bnRsYmtocnFwcDN3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YARUMKaGd8cRG/giphy.gif" alt="gif-ghost" width="300" />
+</div>
