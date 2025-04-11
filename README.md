@@ -1,14 +1,22 @@
-## Servus! 
+## Servus!
 
-- 👻 Estudante de Engenharia de Software.
-- 👻 Estudando Python e Full Stack Web
-<div>
-  <a href="https://github.com/ghfdm">
+<div style="display: inline-block; gap: 10px;">
+  - 👻 Estudante de Engenharia de Software.
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ghost-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ghost-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ghost-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<div style="display: inline-block; gap: 10px;">
+  - 👻 Ítalo-Brasileiro, nativo em Português, Inglês C1, Alemão B1, Italiano B1.
+  <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="25" style="vertical-align: middle;">
+  <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="25" style="vertical-align: middle;">
+  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="25" style="vertical-align: middle;">
+  <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="25" style="vertical-align: middle;">
+</div>
+
+<div style="display: inline-block;">
+  - 👻 Estudando Python e Full Stack Web.
+  <img align="center" alt="Ghost-HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="vertical-align: middle;">
+  <img align="center" alt="Ghost-CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="vertical-align: middle;">
+  <img align="center" alt="Ghost-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="vertical-align: middle;">
 </div>
 
 ##
