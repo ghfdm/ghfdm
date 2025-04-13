@@ -2,6 +2,7 @@
 
 <div style="display: inline-block; gap: 10px;">
   - 👻 Estudante de Engenharia de Software.
+  https://ghfdm.github.io/meuresumo/
 </div>
 
 <div style="display: inline-block; gap: 10px;">
