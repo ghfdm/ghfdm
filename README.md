@@ -19,6 +19,7 @@
   - 👻 Estudando Python e Full Stack Web.
   <img align="center" alt="Ghost-HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="vertical-align: middle;">
   <img align="center" alt="Ghost-CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="vertical-align: middle;">
+  <img align="center" alt="JS-Icon" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="vertical-align: middle;" />
   <img align="center" alt="Ghost-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="vertical-align: middle;">
 </div>
 
