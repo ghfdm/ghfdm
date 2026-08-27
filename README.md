@@ -5,9 +5,6 @@
 </div>
      <br />
 <div style="display: inline-block; gap: 10px;">
-  - 👻 Estudante de Engenharia de Software.
-</div>
-<div style="display: inline-block; gap: 10px;">
   <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="25" style="vertical-align: middle;">
   <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="25" style="vertical-align: middle;">
   <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="25" style="vertical-align: middle;">
